@@ -25,7 +25,7 @@ function Nav() {
 
       <img
         className="nav__avatar"
-        src="https://pbs.twimg.com/profile_images/2284174872/7df3h38zabcvjylnyfe3.png"
+        src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/366be133850498.56ba69ac36858.png"
         alt="Netflix Avatar"
       />
     </div>
