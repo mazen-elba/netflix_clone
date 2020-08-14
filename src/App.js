@@ -13,7 +13,7 @@ function App() {
       <Banner />
 
       <Row
-        title="NETFLIX ORIGINALS"
+        title="NETFLiX (clone) ORiGiNALS"
         fetchUrl={requests.fetchNetflixOriginals}
         isLargeRow={true}
       />
